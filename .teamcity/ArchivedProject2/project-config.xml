@@ -2,7 +2,7 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="e9366731-fbea-4891-bc02-358226a2c9fd" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2018.1/project-config.xsd">
   <name>Archived project2</name>
   <parameters>
-    <param name="version" value="%global%" spec="text regexp='\d\.\d+\.\d+' validationMode='regex' display='prompt' validationMessage='rrr'" />
+    <param name="version" value="%test%" spec="text regexp='\d\.\d+\.\d+' validationMode='regex' display='prompt' validationMessage='rrr'" />
   </parameters>
   <project-extensions>
     <extension id="PROJECT_EXT_48" type="versionedSettings">
