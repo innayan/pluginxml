@@ -3,7 +3,9 @@
   <name>archived configu2</name>
   <description />
   <settings>
-    <parameters />
+    <parameters>
+      <param name="test" value="1.22.33" />
+    </parameters>
     <build-runners />
     <vcs-settings />
     <requirements />
