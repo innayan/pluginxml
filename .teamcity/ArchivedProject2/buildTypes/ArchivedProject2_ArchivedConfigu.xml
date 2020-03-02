@@ -5,6 +5,7 @@
   <settings>
     <parameters>
       <param name="test" value="1.22.33" />
+      <param name="version" value="1.2.3" />
     </parameters>
     <build-runners />
     <vcs-settings />
